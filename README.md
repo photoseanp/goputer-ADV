@@ -12,8 +12,6 @@ Offline opponents · 9×9 / 13×13 / 19×19 · Save and resume · M5Launcher ins
 
 The display name is `goputer(ADV)`. The Arduino sketch, folder, and application binary use the filesystem-friendly name **`goputer_ADV`**.
 
-> This README describes the **v2.1 source layout**, after the rename and the 13×13 hoshi update. Apply the v2.1 source update before using these paths; the older `CardputerGoADV` folder has different names.
-
 ## Features
 
 - **Three board sizes:** 9×9, 13×13, and 19×19; no 5×5 mode.
