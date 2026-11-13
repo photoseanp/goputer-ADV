@@ -2,3 +2,20 @@ build/
 *.elf
 *.map
 .DS_Store
+
+# macOS
+.DS_Store
+
+# Generated build output
+/build/
+/dist/
+*.elf
+*.map
+
+# Backups created by update commands
+*.bak
+
+# Local secrets
+.env
+.env.*
+!.env.example
